@@ -12,14 +12,14 @@ function App() {
         <div className="songContainer"> 
           <div className="title">Misiones 01</div>
           <div className="audioWrapper">
-            <audio  src="./audio/Misiones01.mp3" controls autoPlay/>
+            <audio  src="./audio/Misiones01.mp3" controls/>
           </div>
         </div>
 
         <div className="songContainer">
           <div className="title">Misiones 02</div>
           <div className="audioWrapper">
-            <audio  src="./audio/Misiones02.mp3" controls autoPlay/>
+            <audio  src="./audio/Misiones02.mp3" controls/>
           </div>
         </div>
 
